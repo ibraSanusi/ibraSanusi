@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ibrahim Sanusi
 
-<!--
-**ibraSanusi/ibraSanusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Full Stack apasionado por crear soluciones tecnológicas que mejoran la vida de las personas.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **Frontend**: React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express, PostgreSQL
+- **Otros**: Git, GitHub, Docker, Prisma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- [💬 ChatApp con autenticación falsa](https://github.com/ibraSanusi/chatapp)
+- [🌍 Página de viajes con Next.js](https://github.com/ibraSanusi/travel-nextjs)
+- [📊 Dashboard de estadísticas](https://github.com/ibraSanusi/dashboard-project)
+
+## 📫 ¿Quieres contactarme?
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-ayodeji-sanusi-0208112a7/)
+- [Correo](mailto:ibrahimsanusi.dev@gmail.com)
