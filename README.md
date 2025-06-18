@@ -8,9 +8,9 @@
 - **Otros**: Git, GitHub, Docker, Prisma
 
 ## 📌 Proyectos destacados
-- [💬 ChatApp con autenticación falsa](https://github.com/ibraSanusi/chatapp)
-- [🌍 Página de viajes con Next.js](https://github.com/ibraSanusi/travel-nextjs)
-- [📊 Dashboard de estadísticas](https://github.com/ibraSanusi/dashboard-project)
+- [💬 ChatApp con autenticación falsa](https://github.com/ibraSanusi/chatbot-app)
+- [🌍 Aplicame - App con ChatGPT que te ayuda a solicitar trabajo](https://github.com/ibraSanusi/aplicame)
+- [📊 Acortador de URL con dashboard y control de visitas](https://github.com/ibraSanusi/urlshorter)
 
 ## 📫 ¿Quieres contactarme?
 - [LinkedIn](https://www.linkedin.com/in/ibrahim-ayodeji-sanusi-0208112a7/)
