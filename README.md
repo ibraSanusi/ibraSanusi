@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ibrahim Sanusi
 
-🎯 Desarrollador Full Stack. Las tecnologías que más utilizo están listadas abajo. Estoy escribiendo esto a las 00:16 un lunes después de haber trabajado. Si esto no es pasión, no se que lo es 🫠.
+🎯 Desarrollador Full Stack.
 
 ## 🛠️ Tecnologías
 - **Frontend**: React, Next.js, Tailwindcss CSS4, HTML5, Typescript, JavaScript
